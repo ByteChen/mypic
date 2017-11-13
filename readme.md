@@ -1,1 +1,1 @@
-Some pictures.
+Some pictures, when writing Markdown documentations, upload the pictures here and generate link automatically, and then copy the link and insert in the markdown documentation, so that we can display online pictures.
